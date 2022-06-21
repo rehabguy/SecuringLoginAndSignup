@@ -1,6 +1,6 @@
 package com.rk.security;
 
-import com.example.redit.exceptions.SpringRedditException;
+import com.rk.exceptions.SpringRedditException;
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;
 import org.springframework.beans.factory.annotation.Value;
